@@ -9,4 +9,4 @@
 - Pixel 7, Android 13
 
 ## 解説記事
-- (準備中)
+- https://qiita.com/yuppejp/items/6eccd2060df3425246e6
